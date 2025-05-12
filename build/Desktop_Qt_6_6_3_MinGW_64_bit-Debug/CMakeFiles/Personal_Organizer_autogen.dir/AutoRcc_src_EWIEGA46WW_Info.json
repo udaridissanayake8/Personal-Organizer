@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Personal_Organizer_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/udari/Documents/Projects/Personal_Organizer",
+	"CMAKE_SOURCE_DIR" : "C:/Users/udari/Documents/Projects/Personal_Organizer",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Personal_Organizer_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/ghjk.png",
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/left-arrow.png",
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/6071541.jpg",
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/076b18bfd95dd2c50e9992536dce5536.jpg",
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/6070859.jpg",
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/3540662.jpg",
+		"C:/Users/udari/Documents/Projects/Personal_Organizer/5595318.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Personal_Organizer_autogen.dir/AutoRcc_src_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "src" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_src.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Personal_Organizer_autogen.dir/AutoRcc_src_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/udari/Documents/Projects/Personal_Organizer/src.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

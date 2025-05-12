@@ -1,0 +1,9 @@
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Personal_Organizer.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Personal_Organizer_autogen_timestamp_deps.dir
+C:/Users/udari/Documents/Projects/Personal_Organizer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Personal_Organizer_autogen.dir
